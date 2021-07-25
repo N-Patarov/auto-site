@@ -1,0 +1,350 @@
+1627240012221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GvKyb87K5Eu1"
+
+(firefox:62408): Gtk-WARNING **: 22:06:52.390: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:62408): Gtk-WARNING **: 22:06:52.390: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:62408): Gtk-WARNING **: 22:06:52.390: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:62408): Gtk-WARNING **: 22:06:52.390: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:62408): Gtk-WARNING **: 22:06:52.390: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:62408): Gtk-WARNING **: 22:06:52.390: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240012979	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:62518): Gtk-WARNING **: 22:06:53.822: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62518): Gtk-WARNING **: 22:06:53.822: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62518): Gtk-WARNING **: 22:06:53.822: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62518): Gtk-WARNING **: 22:06:53.822: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62518): Gtk-WARNING **: 22:06:53.823: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62518): Gtk-WARNING **: 22:06:53.823: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62542): Gtk-WARNING **: 22:06:53.938: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62542): Gtk-WARNING **: 22:06:53.938: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62542): Gtk-WARNING **: 22:06:53.938: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62542): Gtk-WARNING **: 22:06:53.938: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62542): Gtk-WARNING **: 22:06:53.938: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62542): Gtk-WARNING **: 22:06:53.938: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.GvKyb87K5Eu1/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:62625): Gtk-WARNING **: 22:06:54.995: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62625): Gtk-WARNING **: 22:06:54.995: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62625): Gtk-WARNING **: 22:06:54.995: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62625): Gtk-WARNING **: 22:06:54.995: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62625): Gtk-WARNING **: 22:06:54.995: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62625): Gtk-WARNING **: 22:06:54.995: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240015018	Marionette	INFO	Listening on port 40861
+1627240015075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627240020289	Marionette	INFO	Stopped listening on port 40861
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627240030223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2B56cfpgdapi"
+
+(firefox:62715): Gtk-WARNING **: 22:07:10.259: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:62715): Gtk-WARNING **: 22:07:10.259: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:62715): Gtk-WARNING **: 22:07:10.259: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:62715): Gtk-WARNING **: 22:07:10.259: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:62715): Gtk-WARNING **: 22:07:10.259: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:62715): Gtk-WARNING **: 22:07:10.259: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240030621	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:62806): Gtk-WARNING **: 22:07:11.297: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62806): Gtk-WARNING **: 22:07:11.297: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62806): Gtk-WARNING **: 22:07:11.297: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62806): Gtk-WARNING **: 22:07:11.297: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62806): Gtk-WARNING **: 22:07:11.297: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62806): Gtk-WARNING **: 22:07:11.297: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62816): Gtk-WARNING **: 22:07:11.389: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62816): Gtk-WARNING **: 22:07:11.389: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62816): Gtk-WARNING **: 22:07:11.389: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62816): Gtk-WARNING **: 22:07:11.389: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62816): Gtk-WARNING **: 22:07:11.389: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62816): Gtk-WARNING **: 22:07:11.389: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.2B56cfpgdapi/search.json.mozlz4", (void 0)))
+1627240032371	Marionette	INFO	Listening on port 36095
+
+(/usr/lib/firefox/firefox:62913): Gtk-WARNING **: 22:07:12.387: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62913): Gtk-WARNING **: 22:07:12.387: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62913): Gtk-WARNING **: 22:07:12.388: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62913): Gtk-WARNING **: 22:07:12.388: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62913): Gtk-WARNING **: 22:07:12.388: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62913): Gtk-WARNING **: 22:07:12.388: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240032447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627240247754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LYZVOdSt8tcW"
+
+(firefox:63120): Gtk-WARNING **: 22:10:47.790: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:63120): Gtk-WARNING **: 22:10:47.790: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:63120): Gtk-WARNING **: 22:10:47.790: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:63120): Gtk-WARNING **: 22:10:47.790: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:63120): Gtk-WARNING **: 22:10:47.790: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:63120): Gtk-WARNING **: 22:10:47.790: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240248227	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:63214): Gtk-WARNING **: 22:10:48.934: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63214): Gtk-WARNING **: 22:10:48.934: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63214): Gtk-WARNING **: 22:10:48.934: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63214): Gtk-WARNING **: 22:10:48.934: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63214): Gtk-WARNING **: 22:10:48.934: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63214): Gtk-WARNING **: 22:10:48.934: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63225): Gtk-WARNING **: 22:10:49.036: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63225): Gtk-WARNING **: 22:10:49.036: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63225): Gtk-WARNING **: 22:10:49.036: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63225): Gtk-WARNING **: 22:10:49.036: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63225): Gtk-WARNING **: 22:10:49.036: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63225): Gtk-WARNING **: 22:10:49.036: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.LYZVOdSt8tcW/search.json.mozlz4", (void 0)))
+1627240249942	Marionette	INFO	Listening on port 43199
+
+(/usr/lib/firefox/firefox:63319): Gtk-WARNING **: 22:10:49.960: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63319): Gtk-WARNING **: 22:10:49.960: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63319): Gtk-WARNING **: 22:10:49.960: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63319): Gtk-WARNING **: 22:10:49.960: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63319): Gtk-WARNING **: 22:10:49.960: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63319): Gtk-WARNING **: 22:10:49.960: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240249995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627240286605	Marionette	INFO	Stopped listening on port 43199
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627240289600	Marionette	INFO	Stopped listening on port 36095
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627240292048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H7dfKalIuweM"
+
+(firefox:63441): Gtk-WARNING **: 22:11:32.085: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:63441): Gtk-WARNING **: 22:11:32.086: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:63441): Gtk-WARNING **: 22:11:32.086: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:63441): Gtk-WARNING **: 22:11:32.086: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:63441): Gtk-WARNING **: 22:11:32.086: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:63441): Gtk-WARNING **: 22:11:32.086: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240292464	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:63531): Gtk-WARNING **: 22:11:33.141: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63531): Gtk-WARNING **: 22:11:33.141: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63531): Gtk-WARNING **: 22:11:33.141: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63531): Gtk-WARNING **: 22:11:33.141: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63531): Gtk-WARNING **: 22:11:33.141: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63531): Gtk-WARNING **: 22:11:33.141: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63541): Gtk-WARNING **: 22:11:33.231: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63541): Gtk-WARNING **: 22:11:33.231: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63541): Gtk-WARNING **: 22:11:33.231: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63541): Gtk-WARNING **: 22:11:33.231: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63541): Gtk-WARNING **: 22:11:33.231: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63541): Gtk-WARNING **: 22:11:33.231: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.H7dfKalIuweM/search.json.mozlz4", (void 0)))
+1627240294057	Marionette	INFO	Listening on port 43677
+
+(/usr/lib/firefox/firefox:63643): Gtk-WARNING **: 22:11:34.132: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63643): Gtk-WARNING **: 22:11:34.132: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63643): Gtk-WARNING **: 22:11:34.132: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63643): Gtk-WARNING **: 22:11:34.132: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63643): Gtk-WARNING **: 22:11:34.132: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63643): Gtk-WARNING **: 22:11:34.132: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240294175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627240308801	Marionette	INFO	Stopped listening on port 43677
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627240395385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ojclFjbKu8Ta"
+
+(firefox:63826): Gtk-WARNING **: 22:13:15.420: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:63826): Gtk-WARNING **: 22:13:15.420: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:63826): Gtk-WARNING **: 22:13:15.420: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:63826): Gtk-WARNING **: 22:13:15.420: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:63826): Gtk-WARNING **: 22:13:15.420: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:63826): Gtk-WARNING **: 22:13:15.420: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240395793	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:63917): Gtk-WARNING **: 22:13:16.460: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63917): Gtk-WARNING **: 22:13:16.460: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63917): Gtk-WARNING **: 22:13:16.460: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63917): Gtk-WARNING **: 22:13:16.460: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63917): Gtk-WARNING **: 22:13:16.460: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63917): Gtk-WARNING **: 22:13:16.460: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63928): Gtk-WARNING **: 22:13:16.550: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63928): Gtk-WARNING **: 22:13:16.550: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63928): Gtk-WARNING **: 22:13:16.550: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63928): Gtk-WARNING **: 22:13:16.550: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63928): Gtk-WARNING **: 22:13:16.550: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63928): Gtk-WARNING **: 22:13:16.550: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.ojclFjbKu8Ta/search.json.mozlz4", (void 0)))
+1627240397367	Marionette	INFO	Listening on port 32847
+1627240397413	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:64032): Gtk-WARNING **: 22:13:17.470: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64032): Gtk-WARNING **: 22:13:17.470: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64032): Gtk-WARNING **: 22:13:17.470: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64032): Gtk-WARNING **: 22:13:17.470: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64032): Gtk-WARNING **: 22:13:17.470: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64032): Gtk-WARNING **: 22:13:17.470: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240497337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.041LF6zms0ET"
+
+(firefox:64172): Gtk-WARNING **: 22:14:57.374: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:64172): Gtk-WARNING **: 22:14:57.374: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:64172): Gtk-WARNING **: 22:14:57.374: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:64172): Gtk-WARNING **: 22:14:57.374: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:64172): Gtk-WARNING **: 22:14:57.374: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:64172): Gtk-WARNING **: 22:14:57.374: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240497767	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:64263): Gtk-WARNING **: 22:14:58.487: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64263): Gtk-WARNING **: 22:14:58.487: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64263): Gtk-WARNING **: 22:14:58.487: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64263): Gtk-WARNING **: 22:14:58.487: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64263): Gtk-WARNING **: 22:14:58.487: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64263): Gtk-WARNING **: 22:14:58.488: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64273): Gtk-WARNING **: 22:14:58.573: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64273): Gtk-WARNING **: 22:14:58.573: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64273): Gtk-WARNING **: 22:14:58.573: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64273): Gtk-WARNING **: 22:14:58.573: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64273): Gtk-WARNING **: 22:14:58.574: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64273): Gtk-WARNING **: 22:14:58.574: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.041LF6zms0ET/search.json.mozlz4", (void 0)))
+1627240499506	Marionette	INFO	Listening on port 43511
+
+(/usr/lib/firefox/firefox:64366): Gtk-WARNING **: 22:14:59.523: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64366): Gtk-WARNING **: 22:14:59.523: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64366): Gtk-WARNING **: 22:14:59.523: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64366): Gtk-WARNING **: 22:14:59.523: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64366): Gtk-WARNING **: 22:14:59.523: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64366): Gtk-WARNING **: 22:14:59.523: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627240499563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627240504398	Marionette	INFO	Stopped listening on port 43511
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
