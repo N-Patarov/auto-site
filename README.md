@@ -5,7 +5,7 @@ How to run:
 
 You must have geckodriver version > 27.0,
 
-You msut install Selenium library,
+You must install Selenium library,
 
 You must have admin rights to izberi.site,
 
