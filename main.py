@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 import time
-
 
 
 browser = webdriver.Firefox()
@@ -16,7 +16,10 @@ def main ():
     search()
     get_info()
     check()
-
+    if is_there == False:
+        add()
+    else:
+        print("website is already added we will fix this problem soon")
 
 def setup():
     admin_email=""
@@ -81,17 +84,32 @@ def check():
     browser.switch_to.window(browser.window_handles[1])
     browser.find_element_by_id("query").send_keys(content[0]+Keys.ENTER)
     time.sleep(2)
-    site_name = WebDriverWait(browser, 10).until(
+    global is_there
+    is_there = False
+    try:
+        site_name = WebDriverWait(browser, 4).until(
         EC.presence_of_element_located((By.TAG_NAME, "h5"))
-    ).text
-    if site_name == content[0]:
-        print(site_name)
-        print(content[0])
-        print("website has been added")
-    else:
-        print(site_name)
-        print(content[0])
-        print("website has not been added")
+        ).text
+
+        if site_name == content[0]:
+            is_there = True
+        else:
+            is_there = False
+
+    except TimeoutException:
+        is_there = False
+
+
+def add():
+    print("adding website...")
+    time.sleep(1)
+    browser.switch_to.window(browser.window_handles[0])
+    browser.find_element_by_id("websites_title").send_keys(content[0])
+    browser.find_element_by_id("websites_description").send_keys(content[1])
+    browser.find_element_by_id("websites_likes").send_keys("0")
+    browser.find_element_by_id("websites_urls").send_keys(content[0])
+    browser.find_element_by_id("websites_priority").send_keys("1")
+    browser.find_element_by_xpath("//button[@type='submit']").click()
 
 
 if __name__ == '__main__':

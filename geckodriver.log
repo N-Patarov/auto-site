@@ -4283,3 +4283,1904 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1627480598170	geckodriver	INFO	Listening on 127.0.0.1:57181
+1627480598174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexzOVCU"
+
+(firefox:46752): Gtk-WARNING **: 16:56:38.213: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:46752): Gtk-WARNING **: 16:56:38.213: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:46752): Gtk-WARNING **: 16:56:38.213: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:46752): Gtk-WARNING **: 16:56:38.213: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:46752): Gtk-WARNING **: 16:56:38.213: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:46752): Gtk-WARNING **: 16:56:38.213: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627480598675	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:46849): Gtk-WARNING **: 16:56:39.367: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46849): Gtk-WARNING **: 16:56:39.367: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46849): Gtk-WARNING **: 16:56:39.367: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46849): Gtk-WARNING **: 16:56:39.367: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46849): Gtk-WARNING **: 16:56:39.367: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46849): Gtk-WARNING **: 16:56:39.367: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46859): Gtk-WARNING **: 16:56:39.458: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46859): Gtk-WARNING **: 16:56:39.458: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46859): Gtk-WARNING **: 16:56:39.458: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46859): Gtk-WARNING **: 16:56:39.459: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46859): Gtk-WARNING **: 16:56:39.459: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46859): Gtk-WARNING **: 16:56:39.459: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexzOVCU/search.json.mozlz4", (void 0)))
+1627480600311	Marionette	INFO	Listening on port 39967
+
+(/usr/lib/firefox/firefox:46961): Gtk-WARNING **: 16:56:40.374: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46961): Gtk-WARNING **: 16:56:40.374: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46961): Gtk-WARNING **: 16:56:40.374: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46961): Gtk-WARNING **: 16:56:40.374: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46961): Gtk-WARNING **: 16:56:40.374: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:46961): Gtk-WARNING **: 16:56:40.374: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627480600400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627480798413	geckodriver	INFO	Listening on 127.0.0.1:42443
+1627480799427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIUFBDF"
+
+(firefox:47357): Gtk-WARNING **: 16:59:59.458: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:47357): Gtk-WARNING **: 16:59:59.459: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:47357): Gtk-WARNING **: 16:59:59.459: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:47357): Gtk-WARNING **: 16:59:59.459: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:47357): Gtk-WARNING **: 16:59:59.459: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:47357): Gtk-WARNING **: 16:59:59.459: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627480799894	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:47451): Gtk-WARNING **: 17:00:00.484: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47451): Gtk-WARNING **: 17:00:00.484: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47451): Gtk-WARNING **: 17:00:00.484: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47451): Gtk-WARNING **: 17:00:00.485: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47451): Gtk-WARNING **: 17:00:00.485: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47451): Gtk-WARNING **: 17:00:00.485: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47466): Gtk-WARNING **: 17:00:00.576: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47466): Gtk-WARNING **: 17:00:00.576: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47466): Gtk-WARNING **: 17:00:00.576: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47466): Gtk-WARNING **: 17:00:00.576: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47466): Gtk-WARNING **: 17:00:00.576: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47466): Gtk-WARNING **: 17:00:00.576: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIUFBDF/search.json.mozlz4", (void 0)))
+1627480801578	Marionette	INFO	Listening on port 35707
+
+(/usr/lib/firefox/firefox:47562): Gtk-WARNING **: 17:00:01.591: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47562): Gtk-WARNING **: 17:00:01.591: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47562): Gtk-WARNING **: 17:00:01.591: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47562): Gtk-WARNING **: 17:00:01.591: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47562): Gtk-WARNING **: 17:00:01.591: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:47562): Gtk-WARNING **: 17:00:01.591: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627480801648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627480914692	Marionette	INFO	Stopped listening on port 39967
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627481080165	geckodriver	INFO	Listening on 127.0.0.1:54787
+1627481080169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileERPBUg"
+
+(firefox:49853): Gtk-WARNING **: 17:04:40.206: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:49853): Gtk-WARNING **: 17:04:40.206: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:49853): Gtk-WARNING **: 17:04:40.206: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:49853): Gtk-WARNING **: 17:04:40.206: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:49853): Gtk-WARNING **: 17:04:40.206: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:49853): Gtk-WARNING **: 17:04:40.206: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627481080667	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:49943): Gtk-WARNING **: 17:04:41.396: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49943): Gtk-WARNING **: 17:04:41.396: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49943): Gtk-WARNING **: 17:04:41.396: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49943): Gtk-WARNING **: 17:04:41.396: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49943): Gtk-WARNING **: 17:04:41.396: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49943): Gtk-WARNING **: 17:04:41.396: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49953): Gtk-WARNING **: 17:04:41.504: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49953): Gtk-WARNING **: 17:04:41.504: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49953): Gtk-WARNING **: 17:04:41.504: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49953): Gtk-WARNING **: 17:04:41.504: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49953): Gtk-WARNING **: 17:04:41.504: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:49953): Gtk-WARNING **: 17:04:41.505: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileERPBUg/search.json.mozlz4", (void 0)))
+1627481082391	Marionette	INFO	Listening on port 35477
+
+(/usr/lib/firefox/firefox:50053): Gtk-WARNING **: 17:04:42.417: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50053): Gtk-WARNING **: 17:04:42.417: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50053): Gtk-WARNING **: 17:04:42.417: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50053): Gtk-WARNING **: 17:04:42.417: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50053): Gtk-WARNING **: 17:04:42.417: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50053): Gtk-WARNING **: 17:04:42.417: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627481082494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627481294465	Marionette	INFO	Stopped listening on port 35477
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627481303270	geckodriver	INFO	Listening on 127.0.0.1:39829
+1627481303274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePK8TfI"
+
+(firefox:50535): Gtk-WARNING **: 17:08:23.311: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:50535): Gtk-WARNING **: 17:08:23.311: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:50535): Gtk-WARNING **: 17:08:23.311: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:50535): Gtk-WARNING **: 17:08:23.311: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:50535): Gtk-WARNING **: 17:08:23.311: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:50535): Gtk-WARNING **: 17:08:23.311: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627481303755	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:50626): Gtk-WARNING **: 17:08:24.440: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50626): Gtk-WARNING **: 17:08:24.440: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50626): Gtk-WARNING **: 17:08:24.440: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50626): Gtk-WARNING **: 17:08:24.440: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50626): Gtk-WARNING **: 17:08:24.440: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50626): Gtk-WARNING **: 17:08:24.440: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50636): Gtk-WARNING **: 17:08:24.530: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50636): Gtk-WARNING **: 17:08:24.530: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50636): Gtk-WARNING **: 17:08:24.530: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50636): Gtk-WARNING **: 17:08:24.530: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50636): Gtk-WARNING **: 17:08:24.530: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50636): Gtk-WARNING **: 17:08:24.530: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePK8TfI/search.json.mozlz4", (void 0)))
+1627481305390	Marionette	INFO	Listening on port 40921
+
+(/usr/lib/firefox/firefox:50740): Gtk-WARNING **: 17:08:25.440: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50740): Gtk-WARNING **: 17:08:25.441: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50740): Gtk-WARNING **: 17:08:25.441: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50740): Gtk-WARNING **: 17:08:25.441: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50740): Gtk-WARNING **: 17:08:25.441: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:50740): Gtk-WARNING **: 17:08:25.441: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627481305494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627481359529	Marionette	INFO	Stopped listening on port 40921
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627482209445	geckodriver	INFO	Listening on 127.0.0.1:43543
+1627482209449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQM8FYv"
+
+(firefox:51436): Gtk-WARNING **: 17:23:29.488: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:51436): Gtk-WARNING **: 17:23:29.488: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:51436): Gtk-WARNING **: 17:23:29.488: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:51436): Gtk-WARNING **: 17:23:29.488: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:51436): Gtk-WARNING **: 17:23:29.488: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:51436): Gtk-WARNING **: 17:23:29.488: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627482209964	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:51533): Gtk-WARNING **: 17:23:30.699: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51533): Gtk-WARNING **: 17:23:30.699: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51533): Gtk-WARNING **: 17:23:30.699: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51533): Gtk-WARNING **: 17:23:30.699: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51533): Gtk-WARNING **: 17:23:30.699: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51533): Gtk-WARNING **: 17:23:30.699: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51543): Gtk-WARNING **: 17:23:30.799: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51543): Gtk-WARNING **: 17:23:30.800: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51543): Gtk-WARNING **: 17:23:30.800: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51543): Gtk-WARNING **: 17:23:30.800: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51543): Gtk-WARNING **: 17:23:30.800: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51543): Gtk-WARNING **: 17:23:30.800: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQM8FYv/search.json.mozlz4", (void 0)))
+1627482211633	Marionette	INFO	Listening on port 39927
+1627482211672	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:51647): Gtk-WARNING **: 17:23:31.731: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51647): Gtk-WARNING **: 17:23:31.731: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51647): Gtk-WARNING **: 17:23:31.731: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51647): Gtk-WARNING **: 17:23:31.731: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51647): Gtk-WARNING **: 17:23:31.731: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:51647): Gtk-WARNING **: 17:23:31.732: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627483650213	Marionette	INFO	Stopped listening on port 39927
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627483696191	geckodriver	INFO	Listening on 127.0.0.1:46207
+1627483696196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg4SJZx"
+
+(firefox:52404): Gtk-WARNING **: 17:48:16.233: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:52404): Gtk-WARNING **: 17:48:16.233: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:52404): Gtk-WARNING **: 17:48:16.233: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:52404): Gtk-WARNING **: 17:48:16.233: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:52404): Gtk-WARNING **: 17:48:16.233: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:52404): Gtk-WARNING **: 17:48:16.233: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627483696682	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:52498): Gtk-WARNING **: 17:48:17.403: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52498): Gtk-WARNING **: 17:48:17.403: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52498): Gtk-WARNING **: 17:48:17.403: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52498): Gtk-WARNING **: 17:48:17.403: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52498): Gtk-WARNING **: 17:48:17.403: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52498): Gtk-WARNING **: 17:48:17.404: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52508): Gtk-WARNING **: 17:48:17.495: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52508): Gtk-WARNING **: 17:48:17.495: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52508): Gtk-WARNING **: 17:48:17.495: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52508): Gtk-WARNING **: 17:48:17.495: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52508): Gtk-WARNING **: 17:48:17.495: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52508): Gtk-WARNING **: 17:48:17.495: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg4SJZx/search.json.mozlz4", (void 0)))
+1627483698406	Marionette	INFO	Listening on port 39429
+
+(/usr/lib/firefox/firefox:52607): Gtk-WARNING **: 17:48:18.439: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52607): Gtk-WARNING **: 17:48:18.439: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52607): Gtk-WARNING **: 17:48:18.439: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52607): Gtk-WARNING **: 17:48:18.439: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52607): Gtk-WARNING **: 17:48:18.439: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:52607): Gtk-WARNING **: 17:48:18.439: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627483698527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627483755064	Marionette	INFO	Stopped listening on port 39429
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627483900850	geckodriver	INFO	Listening on 127.0.0.1:51853
+1627483900854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoqovKG"
+
+(firefox:53016): Gtk-WARNING **: 17:51:40.890: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:53016): Gtk-WARNING **: 17:51:40.890: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:53016): Gtk-WARNING **: 17:51:40.890: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:53016): Gtk-WARNING **: 17:51:40.890: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:53016): Gtk-WARNING **: 17:51:40.890: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:53016): Gtk-WARNING **: 17:51:40.890: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627483901328	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:53109): Gtk-WARNING **: 17:51:42.029: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53109): Gtk-WARNING **: 17:51:42.029: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53109): Gtk-WARNING **: 17:51:42.029: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53109): Gtk-WARNING **: 17:51:42.029: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53109): Gtk-WARNING **: 17:51:42.029: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53109): Gtk-WARNING **: 17:51:42.029: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53119): Gtk-WARNING **: 17:51:42.119: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53119): Gtk-WARNING **: 17:51:42.119: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53119): Gtk-WARNING **: 17:51:42.119: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53119): Gtk-WARNING **: 17:51:42.119: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53119): Gtk-WARNING **: 17:51:42.119: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53119): Gtk-WARNING **: 17:51:42.119: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoqovKG/search.json.mozlz4", (void 0)))
+1627483903049	Marionette	INFO	Listening on port 42629
+
+(/usr/lib/firefox/firefox:53215): Gtk-WARNING **: 17:51:43.077: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53215): Gtk-WARNING **: 17:51:43.077: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53215): Gtk-WARNING **: 17:51:43.077: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53215): Gtk-WARNING **: 17:51:43.077: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53215): Gtk-WARNING **: 17:51:43.077: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53215): Gtk-WARNING **: 17:51:43.077: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627483903082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627484182835	Marionette	INFO	Stopped listening on port 42629
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627484194876	geckodriver	INFO	Listening on 127.0.0.1:45439
+1627484194881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileonUr9h"
+
+(firefox:53574): Gtk-WARNING **: 17:56:34.915: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:53574): Gtk-WARNING **: 17:56:34.915: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:53574): Gtk-WARNING **: 17:56:34.915: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:53574): Gtk-WARNING **: 17:56:34.915: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:53574): Gtk-WARNING **: 17:56:34.915: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:53574): Gtk-WARNING **: 17:56:34.915: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484195359	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:53666): Gtk-WARNING **: 17:56:36.069: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53666): Gtk-WARNING **: 17:56:36.069: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53666): Gtk-WARNING **: 17:56:36.069: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53666): Gtk-WARNING **: 17:56:36.070: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53666): Gtk-WARNING **: 17:56:36.070: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53666): Gtk-WARNING **: 17:56:36.070: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53679): Gtk-WARNING **: 17:56:36.159: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53679): Gtk-WARNING **: 17:56:36.159: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53679): Gtk-WARNING **: 17:56:36.159: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53679): Gtk-WARNING **: 17:56:36.159: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53679): Gtk-WARNING **: 17:56:36.160: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53679): Gtk-WARNING **: 17:56:36.160: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileonUr9h/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:53777): Gtk-WARNING **: 17:56:37.111: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53777): Gtk-WARNING **: 17:56:37.111: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53777): Gtk-WARNING **: 17:56:37.111: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53777): Gtk-WARNING **: 17:56:37.111: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53777): Gtk-WARNING **: 17:56:37.111: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:53777): Gtk-WARNING **: 17:56:37.111: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484197118	Marionette	INFO	Listening on port 42387
+1627484197203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.5.0/otBannerSdk.js, line 7: TypeError: K.moduleInitializer is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627484318005	Marionette	INFO	Stopped listening on port 42387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627484447121	geckodriver	INFO	Listening on 127.0.0.1:51485
+1627484447126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePCMYAP"
+
+(firefox:54186): Gtk-WARNING **: 18:00:47.161: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:54186): Gtk-WARNING **: 18:00:47.161: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:54186): Gtk-WARNING **: 18:00:47.161: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:54186): Gtk-WARNING **: 18:00:47.161: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:54186): Gtk-WARNING **: 18:00:47.161: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:54186): Gtk-WARNING **: 18:00:47.161: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484447592	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:54278): Gtk-WARNING **: 18:00:48.287: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54278): Gtk-WARNING **: 18:00:48.287: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54278): Gtk-WARNING **: 18:00:48.287: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54278): Gtk-WARNING **: 18:00:48.287: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54278): Gtk-WARNING **: 18:00:48.287: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54278): Gtk-WARNING **: 18:00:48.287: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54288): Gtk-WARNING **: 18:00:48.378: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54288): Gtk-WARNING **: 18:00:48.378: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54288): Gtk-WARNING **: 18:00:48.378: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54288): Gtk-WARNING **: 18:00:48.378: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54288): Gtk-WARNING **: 18:00:48.378: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54288): Gtk-WARNING **: 18:00:48.378: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePCMYAP/search.json.mozlz4", (void 0)))
+1627484449363	Marionette	INFO	Listening on port 42727
+
+(/usr/lib/firefox/firefox:54385): Gtk-WARNING **: 18:00:49.377: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54385): Gtk-WARNING **: 18:00:49.377: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54385): Gtk-WARNING **: 18:00:49.377: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54385): Gtk-WARNING **: 18:00:49.377: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54385): Gtk-WARNING **: 18:00:49.377: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54385): Gtk-WARNING **: 18:00:49.377: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484449453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627484586099	Marionette	INFO	Stopped listening on port 42727
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627484599506	geckodriver	INFO	Listening on 127.0.0.1:52311
+1627484599511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVEH8rT"
+
+(firefox:54652): Gtk-WARNING **: 18:03:19.548: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:54652): Gtk-WARNING **: 18:03:19.548: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:54652): Gtk-WARNING **: 18:03:19.548: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:54652): Gtk-WARNING **: 18:03:19.549: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:54652): Gtk-WARNING **: 18:03:19.549: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:54652): Gtk-WARNING **: 18:03:19.549: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484599984	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:54743): Gtk-WARNING **: 18:03:20.682: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54743): Gtk-WARNING **: 18:03:20.682: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54743): Gtk-WARNING **: 18:03:20.682: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54743): Gtk-WARNING **: 18:03:20.683: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54743): Gtk-WARNING **: 18:03:20.683: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54743): Gtk-WARNING **: 18:03:20.683: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54753): Gtk-WARNING **: 18:03:20.776: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54753): Gtk-WARNING **: 18:03:20.776: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54753): Gtk-WARNING **: 18:03:20.776: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54753): Gtk-WARNING **: 18:03:20.776: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54753): Gtk-WARNING **: 18:03:20.776: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54753): Gtk-WARNING **: 18:03:20.776: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVEH8rT/search.json.mozlz4", (void 0)))
+1627484601667	Marionette	INFO	Listening on port 45807
+1627484601736	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:54859): Gtk-WARNING **: 18:03:21.796: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54859): Gtk-WARNING **: 18:03:21.796: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54859): Gtk-WARNING **: 18:03:21.796: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54859): Gtk-WARNING **: 18:03:21.796: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54859): Gtk-WARNING **: 18:03:21.796: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:54859): Gtk-WARNING **: 18:03:21.796: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627484648756	Marionette	INFO	Stopped listening on port 45807
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627484651144	geckodriver	INFO	Listening on 127.0.0.1:38299
+1627484651149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBy1Tn5"
+
+(firefox:54991): Gtk-WARNING **: 18:04:11.183: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:54991): Gtk-WARNING **: 18:04:11.183: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:54991): Gtk-WARNING **: 18:04:11.183: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:54991): Gtk-WARNING **: 18:04:11.183: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:54991): Gtk-WARNING **: 18:04:11.183: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:54991): Gtk-WARNING **: 18:04:11.183: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484651619	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:55081): Gtk-WARNING **: 18:04:12.279: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55081): Gtk-WARNING **: 18:04:12.280: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55081): Gtk-WARNING **: 18:04:12.280: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55081): Gtk-WARNING **: 18:04:12.280: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55081): Gtk-WARNING **: 18:04:12.280: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55081): Gtk-WARNING **: 18:04:12.280: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55091): Gtk-WARNING **: 18:04:12.371: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55091): Gtk-WARNING **: 18:04:12.371: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55091): Gtk-WARNING **: 18:04:12.371: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55091): Gtk-WARNING **: 18:04:12.371: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55091): Gtk-WARNING **: 18:04:12.371: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55091): Gtk-WARNING **: 18:04:12.372: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBy1Tn5/search.json.mozlz4", (void 0)))
+1627484653327	Marionette	INFO	Listening on port 37889
+
+(/usr/lib/firefox/firefox:55186): Gtk-WARNING **: 18:04:13.341: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55186): Gtk-WARNING **: 18:04:13.342: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55186): Gtk-WARNING **: 18:04:13.342: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55186): Gtk-WARNING **: 18:04:13.342: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55186): Gtk-WARNING **: 18:04:13.342: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55186): Gtk-WARNING **: 18:04:13.342: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484653379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627484776002	Marionette	INFO	Stopped listening on port 37889
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627484779240	geckodriver	INFO	Listening on 127.0.0.1:35503
+1627484779245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileppJ0yU"
+
+(firefox:55478): Gtk-WARNING **: 18:06:19.279: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:55478): Gtk-WARNING **: 18:06:19.279: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:55478): Gtk-WARNING **: 18:06:19.279: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:55478): Gtk-WARNING **: 18:06:19.279: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:55478): Gtk-WARNING **: 18:06:19.279: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:55478): Gtk-WARNING **: 18:06:19.279: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484779716	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:55569): Gtk-WARNING **: 18:06:20.420: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55569): Gtk-WARNING **: 18:06:20.420: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55569): Gtk-WARNING **: 18:06:20.420: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55569): Gtk-WARNING **: 18:06:20.420: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55569): Gtk-WARNING **: 18:06:20.420: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55569): Gtk-WARNING **: 18:06:20.420: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55579): Gtk-WARNING **: 18:06:20.514: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55579): Gtk-WARNING **: 18:06:20.514: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55579): Gtk-WARNING **: 18:06:20.514: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55579): Gtk-WARNING **: 18:06:20.514: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55579): Gtk-WARNING **: 18:06:20.514: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55579): Gtk-WARNING **: 18:06:20.514: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileppJ0yU/search.json.mozlz4", (void 0)))
+1627484781512	Marionette	INFO	Listening on port 41155
+
+(/usr/lib/firefox/firefox:55680): Gtk-WARNING **: 18:06:21.525: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55680): Gtk-WARNING **: 18:06:21.525: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55680): Gtk-WARNING **: 18:06:21.525: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55680): Gtk-WARNING **: 18:06:21.525: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55680): Gtk-WARNING **: 18:06:21.525: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:55680): Gtk-WARNING **: 18:06:21.525: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627484781567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627484817150	Marionette	INFO	Stopped listening on port 41155
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627485427347	geckodriver	INFO	Listening on 127.0.0.1:47549
+1627485427351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletIKWpF"
+
+(firefox:56309): Gtk-WARNING **: 18:17:07.389: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:56309): Gtk-WARNING **: 18:17:07.389: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:56309): Gtk-WARNING **: 18:17:07.389: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:56309): Gtk-WARNING **: 18:17:07.389: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:56309): Gtk-WARNING **: 18:17:07.389: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:56309): Gtk-WARNING **: 18:17:07.389: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627485427849	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:56406): Gtk-WARNING **: 18:17:08.550: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56406): Gtk-WARNING **: 18:17:08.550: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56406): Gtk-WARNING **: 18:17:08.550: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56406): Gtk-WARNING **: 18:17:08.550: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56406): Gtk-WARNING **: 18:17:08.550: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56406): Gtk-WARNING **: 18:17:08.550: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56416): Gtk-WARNING **: 18:17:08.662: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56416): Gtk-WARNING **: 18:17:08.662: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56416): Gtk-WARNING **: 18:17:08.662: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56416): Gtk-WARNING **: 18:17:08.662: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56416): Gtk-WARNING **: 18:17:08.662: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56416): Gtk-WARNING **: 18:17:08.662: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletIKWpF/search.json.mozlz4", (void 0)))
+1627485429664	Marionette	INFO	Listening on port 46637
+
+(/usr/lib/firefox/firefox:56513): Gtk-WARNING **: 18:17:09.676: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56513): Gtk-WARNING **: 18:17:09.676: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56513): Gtk-WARNING **: 18:17:09.676: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56513): Gtk-WARNING **: 18:17:09.676: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56513): Gtk-WARNING **: 18:17:09.676: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56513): Gtk-WARNING **: 18:17:09.676: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627485429771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627485577385	Marionette	INFO	Stopped listening on port 46637
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627485604004	geckodriver	INFO	Listening on 127.0.0.1:37351
+1627485604008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6mGsC2"
+
+(firefox:56795): Gtk-WARNING **: 18:20:04.042: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:56795): Gtk-WARNING **: 18:20:04.042: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:56795): Gtk-WARNING **: 18:20:04.042: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:56795): Gtk-WARNING **: 18:20:04.042: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:56795): Gtk-WARNING **: 18:20:04.042: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:56795): Gtk-WARNING **: 18:20:04.042: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627485604469	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:56885): Gtk-WARNING **: 18:20:05.165: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56885): Gtk-WARNING **: 18:20:05.165: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56885): Gtk-WARNING **: 18:20:05.166: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56885): Gtk-WARNING **: 18:20:05.166: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56885): Gtk-WARNING **: 18:20:05.166: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56885): Gtk-WARNING **: 18:20:05.166: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56895): Gtk-WARNING **: 18:20:05.261: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56895): Gtk-WARNING **: 18:20:05.261: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56895): Gtk-WARNING **: 18:20:05.261: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56895): Gtk-WARNING **: 18:20:05.261: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56895): Gtk-WARNING **: 18:20:05.262: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56895): Gtk-WARNING **: 18:20:05.262: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6mGsC2/search.json.mozlz4", (void 0)))
+1627485606105	Marionette	INFO	Listening on port 37929
+1627485606136	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:56999): Gtk-WARNING **: 18:20:06.196: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56999): Gtk-WARNING **: 18:20:06.196: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56999): Gtk-WARNING **: 18:20:06.196: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56999): Gtk-WARNING **: 18:20:06.196: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56999): Gtk-WARNING **: 18:20:06.196: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:56999): Gtk-WARNING **: 18:20:06.196: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627485615216	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:4000"
+1627485777959	Marionette	INFO	Stopped listening on port 37929
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627485779998	geckodriver	INFO	Listening on 127.0.0.1:33133
+1627485780003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBTh0vw"
+
+(firefox:57410): Gtk-WARNING **: 18:23:00.041: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:57410): Gtk-WARNING **: 18:23:00.041: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:57410): Gtk-WARNING **: 18:23:00.041: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:57410): Gtk-WARNING **: 18:23:00.041: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:57410): Gtk-WARNING **: 18:23:00.041: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:57410): Gtk-WARNING **: 18:23:00.041: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627485780487	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:57502): Gtk-WARNING **: 18:23:01.187: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57502): Gtk-WARNING **: 18:23:01.187: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57502): Gtk-WARNING **: 18:23:01.187: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57502): Gtk-WARNING **: 18:23:01.187: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57502): Gtk-WARNING **: 18:23:01.187: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57502): Gtk-WARNING **: 18:23:01.187: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57512): Gtk-WARNING **: 18:23:01.287: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57512): Gtk-WARNING **: 18:23:01.287: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57512): Gtk-WARNING **: 18:23:01.287: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57512): Gtk-WARNING **: 18:23:01.287: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57512): Gtk-WARNING **: 18:23:01.287: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57512): Gtk-WARNING **: 18:23:01.287: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBTh0vw/search.json.mozlz4", (void 0)))
+1627485782139	Marionette	INFO	Listening on port 40849
+
+(/usr/lib/firefox/firefox:57618): Gtk-WARNING **: 18:23:02.195: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57618): Gtk-WARNING **: 18:23:02.195: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57618): Gtk-WARNING **: 18:23:02.195: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57618): Gtk-WARNING **: 18:23:02.195: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57618): Gtk-WARNING **: 18:23:02.195: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:57618): Gtk-WARNING **: 18:23:02.196: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627485782222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://zamunda.net/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:4000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:4000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:4000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:4000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:4000"
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1627486109927	Marionette	INFO	Stopped listening on port 40849
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627486136488	geckodriver	INFO	Listening on 127.0.0.1:39085
+1627486136493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqcupG"
+
+(firefox:58269): Gtk-WARNING **: 18:28:56.528: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:58269): Gtk-WARNING **: 18:28:56.528: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:58269): Gtk-WARNING **: 18:28:56.528: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:58269): Gtk-WARNING **: 18:28:56.528: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:58269): Gtk-WARNING **: 18:28:56.529: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:58269): Gtk-WARNING **: 18:28:56.529: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486136966	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:58359): Gtk-WARNING **: 18:28:57.672: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58359): Gtk-WARNING **: 18:28:57.672: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58359): Gtk-WARNING **: 18:28:57.672: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58359): Gtk-WARNING **: 18:28:57.672: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58359): Gtk-WARNING **: 18:28:57.672: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58359): Gtk-WARNING **: 18:28:57.672: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58369): Gtk-WARNING **: 18:28:57.764: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58369): Gtk-WARNING **: 18:28:57.764: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58369): Gtk-WARNING **: 18:28:57.764: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58369): Gtk-WARNING **: 18:28:57.764: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58369): Gtk-WARNING **: 18:28:57.764: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58369): Gtk-WARNING **: 18:28:57.765: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZqcupG/search.json.mozlz4", (void 0)))
+1627486138597	Marionette	INFO	Listening on port 41369
+
+(/usr/lib/firefox/firefox:58475): Gtk-WARNING **: 18:28:58.677: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58475): Gtk-WARNING **: 18:28:58.677: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58475): Gtk-WARNING **: 18:28:58.677: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58475): Gtk-WARNING **: 18:28:58.677: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58475): Gtk-WARNING **: 18:28:58.677: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58475): Gtk-WARNING **: 18:28:58.677: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486138713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627486319182	Marionette	INFO	Stopped listening on port 41369
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627486321338	geckodriver	INFO	Listening on 127.0.0.1:48423
+1627486321343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerBJzxL"
+
+(firefox:58786): Gtk-WARNING **: 18:32:01.382: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:58786): Gtk-WARNING **: 18:32:01.382: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:58786): Gtk-WARNING **: 18:32:01.382: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:58786): Gtk-WARNING **: 18:32:01.382: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:58786): Gtk-WARNING **: 18:32:01.382: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:58786): Gtk-WARNING **: 18:32:01.382: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486321905	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:58877): Gtk-WARNING **: 18:32:02.637: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58877): Gtk-WARNING **: 18:32:02.637: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58877): Gtk-WARNING **: 18:32:02.637: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58877): Gtk-WARNING **: 18:32:02.637: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58877): Gtk-WARNING **: 18:32:02.637: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58877): Gtk-WARNING **: 18:32:02.637: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58887): Gtk-WARNING **: 18:32:02.724: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58887): Gtk-WARNING **: 18:32:02.724: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58887): Gtk-WARNING **: 18:32:02.725: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58887): Gtk-WARNING **: 18:32:02.725: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58887): Gtk-WARNING **: 18:32:02.725: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58887): Gtk-WARNING **: 18:32:02.725: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerBJzxL/search.json.mozlz4", (void 0)))
+1627486323694	Marionette	INFO	Listening on port 46649
+
+(/usr/lib/firefox/firefox:58985): Gtk-WARNING **: 18:32:03.709: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58985): Gtk-WARNING **: 18:32:03.709: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58985): Gtk-WARNING **: 18:32:03.709: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58985): Gtk-WARNING **: 18:32:03.709: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58985): Gtk-WARNING **: 18:32:03.709: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:58985): Gtk-WARNING **: 18:32:03.709: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486323764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627486336693	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://restoranto.com/detroitchicago/cmbdv2.js?gcb=195-0&cb=03-4y0c-5y18-3y34-15y57-21&cmbcb=20&sj=x03x0cx18x34x57, line 1: ReferenceError: ez_attachEvent is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627486410467	Marionette	INFO	Stopped listening on port 46649
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627486427251	geckodriver	INFO	Listening on 127.0.0.1:39189
+1627486427255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCNAvP6"
+
+(firefox:59241): Gtk-WARNING **: 18:33:47.290: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:59241): Gtk-WARNING **: 18:33:47.290: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:59241): Gtk-WARNING **: 18:33:47.290: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:59241): Gtk-WARNING **: 18:33:47.290: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:59241): Gtk-WARNING **: 18:33:47.290: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:59241): Gtk-WARNING **: 18:33:47.290: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486427727	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:59332): Gtk-WARNING **: 18:33:48.434: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59332): Gtk-WARNING **: 18:33:48.434: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59332): Gtk-WARNING **: 18:33:48.434: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59332): Gtk-WARNING **: 18:33:48.434: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59332): Gtk-WARNING **: 18:33:48.434: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59332): Gtk-WARNING **: 18:33:48.434: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59342): Gtk-WARNING **: 18:33:48.522: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59342): Gtk-WARNING **: 18:33:48.522: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59342): Gtk-WARNING **: 18:33:48.522: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59342): Gtk-WARNING **: 18:33:48.522: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59342): Gtk-WARNING **: 18:33:48.522: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59342): Gtk-WARNING **: 18:33:48.522: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCNAvP6/search.json.mozlz4", (void 0)))
+1627486429389	Marionette	INFO	Listening on port 38517
+
+(/usr/lib/firefox/firefox:59445): Gtk-WARNING **: 18:33:49.474: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59445): Gtk-WARNING **: 18:33:49.474: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59445): Gtk-WARNING **: 18:33:49.474: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59445): Gtk-WARNING **: 18:33:49.474: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59445): Gtk-WARNING **: 18:33:49.474: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59445): Gtk-WARNING **: 18:33:49.474: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486429477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627486495043	Marionette	INFO	Stopped listening on port 38517
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627486498231	geckodriver	INFO	Listening on 127.0.0.1:60087
+1627486498235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZV3eq8"
+
+(firefox:59664): Gtk-WARNING **: 18:34:58.269: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:59664): Gtk-WARNING **: 18:34:58.269: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:59664): Gtk-WARNING **: 18:34:58.269: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:59664): Gtk-WARNING **: 18:34:58.269: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:59664): Gtk-WARNING **: 18:34:58.269: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:59664): Gtk-WARNING **: 18:34:58.269: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486498704	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:59755): Gtk-WARNING **: 18:34:59.423: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59755): Gtk-WARNING **: 18:34:59.423: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59755): Gtk-WARNING **: 18:34:59.423: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59755): Gtk-WARNING **: 18:34:59.423: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59755): Gtk-WARNING **: 18:34:59.423: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59755): Gtk-WARNING **: 18:34:59.423: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59765): Gtk-WARNING **: 18:34:59.519: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59765): Gtk-WARNING **: 18:34:59.519: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59765): Gtk-WARNING **: 18:34:59.519: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59765): Gtk-WARNING **: 18:34:59.519: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59765): Gtk-WARNING **: 18:34:59.519: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59765): Gtk-WARNING **: 18:34:59.520: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZV3eq8/search.json.mozlz4", (void 0)))
+1627486500497	Marionette	INFO	Listening on port 45463
+
+(/usr/lib/firefox/firefox:59861): Gtk-WARNING **: 18:35:00.510: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59861): Gtk-WARNING **: 18:35:00.510: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59861): Gtk-WARNING **: 18:35:00.510: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59861): Gtk-WARNING **: 18:35:00.510: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59861): Gtk-WARNING **: 18:35:00.510: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:59861): Gtk-WARNING **: 18:35:00.511: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486500555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode65, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1627486548465	Marionette	INFO	Stopped listening on port 45463
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627486561120	geckodriver	INFO	Listening on 127.0.0.1:49957
+1627486561125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGOAa11"
+
+(firefox:60068): Gtk-WARNING **: 18:36:01.159: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:60068): Gtk-WARNING **: 18:36:01.159: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:60068): Gtk-WARNING **: 18:36:01.159: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:60068): Gtk-WARNING **: 18:36:01.159: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:60068): Gtk-WARNING **: 18:36:01.159: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:60068): Gtk-WARNING **: 18:36:01.159: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486561595	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:60159): Gtk-WARNING **: 18:36:02.290: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60159): Gtk-WARNING **: 18:36:02.291: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60159): Gtk-WARNING **: 18:36:02.291: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60159): Gtk-WARNING **: 18:36:02.291: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60159): Gtk-WARNING **: 18:36:02.291: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60159): Gtk-WARNING **: 18:36:02.291: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60169): Gtk-WARNING **: 18:36:02.380: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60169): Gtk-WARNING **: 18:36:02.380: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60169): Gtk-WARNING **: 18:36:02.380: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60169): Gtk-WARNING **: 18:36:02.380: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60169): Gtk-WARNING **: 18:36:02.380: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60169): Gtk-WARNING **: 18:36:02.380: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGOAa11/search.json.mozlz4", (void 0)))
+1627486563282	Marionette	INFO	Listening on port 41211
+
+(/usr/lib/firefox/firefox:60267): Gtk-WARNING **: 18:36:03.315: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60267): Gtk-WARNING **: 18:36:03.315: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60267): Gtk-WARNING **: 18:36:03.315: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60267): Gtk-WARNING **: 18:36:03.315: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60267): Gtk-WARNING **: 18:36:03.315: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60267): Gtk-WARNING **: 18:36:03.315: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486563349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627486673599	Marionette	INFO	Stopped listening on port 41211
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627486694515	geckodriver	INFO	Listening on 127.0.0.1:60557
+1627486694519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiJL0LS"
+
+(firefox:60539): Gtk-WARNING **: 18:38:14.556: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:60539): Gtk-WARNING **: 18:38:14.556: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:60539): Gtk-WARNING **: 18:38:14.556: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:60539): Gtk-WARNING **: 18:38:14.556: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:60539): Gtk-WARNING **: 18:38:14.556: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:60539): Gtk-WARNING **: 18:38:14.556: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486695000	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:60632): Gtk-WARNING **: 18:38:15.712: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60632): Gtk-WARNING **: 18:38:15.712: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60632): Gtk-WARNING **: 18:38:15.712: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60632): Gtk-WARNING **: 18:38:15.712: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60632): Gtk-WARNING **: 18:38:15.712: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60632): Gtk-WARNING **: 18:38:15.712: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60642): Gtk-WARNING **: 18:38:15.799: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60642): Gtk-WARNING **: 18:38:15.799: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60642): Gtk-WARNING **: 18:38:15.799: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60642): Gtk-WARNING **: 18:38:15.800: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60642): Gtk-WARNING **: 18:38:15.800: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60642): Gtk-WARNING **: 18:38:15.800: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiJL0LS/search.json.mozlz4", (void 0)))
+1627486696739	Marionette	INFO	Listening on port 39111
+
+(/usr/lib/firefox/firefox:60745): Gtk-WARNING **: 18:38:16.771: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60745): Gtk-WARNING **: 18:38:16.771: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60745): Gtk-WARNING **: 18:38:16.771: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60745): Gtk-WARNING **: 18:38:16.771: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60745): Gtk-WARNING **: 18:38:16.771: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:60745): Gtk-WARNING **: 18:38:16.771: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486696849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627486907325	Marionette	INFO	Stopped listening on port 39111
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627486921474	geckodriver	INFO	Listening on 127.0.0.1:42027
+1627486921478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyfVVDm"
+
+(firefox:61008): Gtk-WARNING **: 18:42:01.511: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:61008): Gtk-WARNING **: 18:42:01.511: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:61008): Gtk-WARNING **: 18:42:01.511: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:61008): Gtk-WARNING **: 18:42:01.511: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:61008): Gtk-WARNING **: 18:42:01.511: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:61008): Gtk-WARNING **: 18:42:01.511: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627486921949	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:61098): Gtk-WARNING **: 18:42:02.657: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61098): Gtk-WARNING **: 18:42:02.657: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61098): Gtk-WARNING **: 18:42:02.657: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61098): Gtk-WARNING **: 18:42:02.657: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61098): Gtk-WARNING **: 18:42:02.657: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61098): Gtk-WARNING **: 18:42:02.657: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61108): Gtk-WARNING **: 18:42:02.750: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61108): Gtk-WARNING **: 18:42:02.750: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61108): Gtk-WARNING **: 18:42:02.750: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61108): Gtk-WARNING **: 18:42:02.750: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61108): Gtk-WARNING **: 18:42:02.750: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61108): Gtk-WARNING **: 18:42:02.750: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyfVVDm/search.json.mozlz4", (void 0)))
+1627486923651	Marionette	INFO	Listening on port 45995
+1627486923717	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:61215): Gtk-WARNING **: 18:42:03.746: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61215): Gtk-WARNING **: 18:42:03.746: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61215): Gtk-WARNING **: 18:42:03.746: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61215): Gtk-WARNING **: 18:42:03.746: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61215): Gtk-WARNING **: 18:42:03.746: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61215): Gtk-WARNING **: 18:42:03.746: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627486936348	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627487122210	Marionette	INFO	Stopped listening on port 45995
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627487139955	geckodriver	INFO	Listening on 127.0.0.1:51197
+1627487139959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1qLpdi"
+
+(firefox:61476): Gtk-WARNING **: 18:45:39.994: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:61476): Gtk-WARNING **: 18:45:39.994: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:61476): Gtk-WARNING **: 18:45:39.994: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:61476): Gtk-WARNING **: 18:45:39.994: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:61476): Gtk-WARNING **: 18:45:39.994: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:61476): Gtk-WARNING **: 18:45:39.994: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627487140433	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:61564): Gtk-WARNING **: 18:45:41.107: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61564): Gtk-WARNING **: 18:45:41.107: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61564): Gtk-WARNING **: 18:45:41.107: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61564): Gtk-WARNING **: 18:45:41.107: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61564): Gtk-WARNING **: 18:45:41.107: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61564): Gtk-WARNING **: 18:45:41.107: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61574): Gtk-WARNING **: 18:45:41.193: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61574): Gtk-WARNING **: 18:45:41.193: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61574): Gtk-WARNING **: 18:45:41.193: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61574): Gtk-WARNING **: 18:45:41.193: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61574): Gtk-WARNING **: 18:45:41.193: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61574): Gtk-WARNING **: 18:45:41.193: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1qLpdi/search.json.mozlz4", (void 0)))
+1627487141984	Marionette	INFO	Listening on port 42531
+1627487142097	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:61679): Gtk-WARNING **: 18:45:42.129: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61679): Gtk-WARNING **: 18:45:42.129: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61679): Gtk-WARNING **: 18:45:42.129: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61679): Gtk-WARNING **: 18:45:42.129: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61679): Gtk-WARNING **: 18:45:42.129: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61679): Gtk-WARNING **: 18:45:42.129: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627487161716	Marionette	INFO	Stopped listening on port 42531
+1627487165807	geckodriver	INFO	Listening on 127.0.0.1:45137
+1627487165811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePbVrzw"
+
+(firefox:61766): Gtk-WARNING **: 18:46:05.846: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:61766): Gtk-WARNING **: 18:46:05.846: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:61766): Gtk-WARNING **: 18:46:05.846: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:61766): Gtk-WARNING **: 18:46:05.846: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:61766): Gtk-WARNING **: 18:46:05.846: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:61766): Gtk-WARNING **: 18:46:05.846: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627487166295	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:61856): Gtk-WARNING **: 18:46:06.949: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61856): Gtk-WARNING **: 18:46:06.949: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61856): Gtk-WARNING **: 18:46:06.949: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61856): Gtk-WARNING **: 18:46:06.949: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61856): Gtk-WARNING **: 18:46:06.949: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61856): Gtk-WARNING **: 18:46:06.949: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61866): Gtk-WARNING **: 18:46:07.037: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61866): Gtk-WARNING **: 18:46:07.037: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61866): Gtk-WARNING **: 18:46:07.037: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61866): Gtk-WARNING **: 18:46:07.037: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61866): Gtk-WARNING **: 18:46:07.037: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61866): Gtk-WARNING **: 18:46:07.037: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePbVrzw/search.json.mozlz4", (void 0)))
+1627487167828	Marionette	INFO	Listening on port 35287
+1627487167941	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:61971): Gtk-WARNING **: 18:46:08.028: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61971): Gtk-WARNING **: 18:46:08.028: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61971): Gtk-WARNING **: 18:46:08.028: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61971): Gtk-WARNING **: 18:46:08.028: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61971): Gtk-WARNING **: 18:46:08.028: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:61971): Gtk-WARNING **: 18:46:08.028: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627487185396	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627487185796	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627487228347	Marionette	INFO	Stopped listening on port 35287
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627487274633	geckodriver	INFO	Listening on 127.0.0.1:38737
+1627487274638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2e2vql"
+
+(firefox:62203): Gtk-WARNING **: 18:47:54.673: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:62203): Gtk-WARNING **: 18:47:54.673: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:62203): Gtk-WARNING **: 18:47:54.673: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:62203): Gtk-WARNING **: 18:47:54.673: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:62203): Gtk-WARNING **: 18:47:54.673: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:62203): Gtk-WARNING **: 18:47:54.673: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627487275136	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:62296): Gtk-WARNING **: 18:47:55.884: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62296): Gtk-WARNING **: 18:47:55.885: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62296): Gtk-WARNING **: 18:47:55.885: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62296): Gtk-WARNING **: 18:47:55.885: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62296): Gtk-WARNING **: 18:47:55.885: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62296): Gtk-WARNING **: 18:47:55.885: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62306): Gtk-WARNING **: 18:47:55.971: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62306): Gtk-WARNING **: 18:47:55.971: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62306): Gtk-WARNING **: 18:47:55.971: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62306): Gtk-WARNING **: 18:47:55.971: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62306): Gtk-WARNING **: 18:47:55.971: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62306): Gtk-WARNING **: 18:47:55.971: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2e2vql/search.json.mozlz4", (void 0)))
+1627487276926	Marionette	INFO	Listening on port 36941
+
+(/usr/lib/firefox/firefox:62404): Gtk-WARNING **: 18:47:56.956: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62404): Gtk-WARNING **: 18:47:56.956: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62404): Gtk-WARNING **: 18:47:56.957: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62404): Gtk-WARNING **: 18:47:56.957: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62404): Gtk-WARNING **: 18:47:56.957: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62404): Gtk-WARNING **: 18:47:56.957: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627487276963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627487278988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627487289685	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://assets.bg-mamma.com/assets/js/fb.api.8647e7e4.js, line 281: unreachable code after return statement
+JavaScript warning: https://assets.bg-mamma.com/assets/vessur/js/script.05c8dde6.js, line 28: unreachable code after return statement
+JavaScript warning: https://assets.bg-mamma.com/assets/vessur/js/script.05c8dde6.js, line 37: unreachable code after return statement
+JavaScript warning: https://assets.bg-mamma.com/assets/vessur/js/script.05c8dde6.js, line 4827: unreachable code after return statement
+JavaScript warning: https://assets.bg-mamma.com/assets/vessur/js/script.05c8dde6.js, line 28: unreachable code after return statement
+JavaScript warning: https://assets.bg-mamma.com/assets/vessur/js/script.05c8dde6.js, line 37: unreachable code after return statement
+JavaScript warning: https://assets.bg-mamma.com/assets/vessur/js/script.05c8dde6.js, line 4827: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+
+(/usr/lib/firefox/firefox:62547): Gtk-WARNING **: 18:48:49.051: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62547): Gtk-WARNING **: 18:48:49.051: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62547): Gtk-WARNING **: 18:48:49.051: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62547): Gtk-WARNING **: 18:48:49.051: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62547): Gtk-WARNING **: 18:48:49.051: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:62547): Gtk-WARNING **: 18:48:49.051: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63016): Gtk-WARNING **: 21:57:14.204: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63016): Gtk-WARNING **: 21:57:14.204: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63016): Gtk-WARNING **: 21:57:14.207: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63016): Gtk-WARNING **: 21:57:14.207: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63016): Gtk-WARNING **: 21:57:14.207: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63016): Gtk-WARNING **: 21:57:14.207: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://served-by.pixfuture.com/www/delivery/afr.php, line 7: TypeError: location.ancestorOrigins is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+(/usr/lib/firefox/firefox:63120): Gtk-WARNING **: 21:57:56.278: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63120): Gtk-WARNING **: 21:57:56.278: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63120): Gtk-WARNING **: 21:57:56.278: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63120): Gtk-WARNING **: 21:57:56.278: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63120): Gtk-WARNING **: 21:57:56.278: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63120): Gtk-WARNING **: 21:57:56.278: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://served-by.pixfuture.com/www/delivery/afr.php, line 7: TypeError: location.ancestorOrigins is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://served-by.pixfuture.com/www/delivery/afr.php, line 7: TypeError: location.ancestorOrigins is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627498955967	geckodriver	INFO	Listening on 127.0.0.1:50573
+1627498955972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCJEJPa"
+
+(firefox:63515): Gtk-WARNING **: 22:02:36.006: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:63515): Gtk-WARNING **: 22:02:36.006: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:63515): Gtk-WARNING **: 22:02:36.006: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:63515): Gtk-WARNING **: 22:02:36.006: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:63515): Gtk-WARNING **: 22:02:36.006: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:63515): Gtk-WARNING **: 22:02:36.006: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627498956444	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:63601): Gtk-WARNING **: 22:02:37.074: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63601): Gtk-WARNING **: 22:02:37.074: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63601): Gtk-WARNING **: 22:02:37.074: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63601): Gtk-WARNING **: 22:02:37.074: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63601): Gtk-WARNING **: 22:02:37.074: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63601): Gtk-WARNING **: 22:02:37.074: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63615): Gtk-WARNING **: 22:02:37.175: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63615): Gtk-WARNING **: 22:02:37.175: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63615): Gtk-WARNING **: 22:02:37.175: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63615): Gtk-WARNING **: 22:02:37.175: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63615): Gtk-WARNING **: 22:02:37.175: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63615): Gtk-WARNING **: 22:02:37.175: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCJEJPa/search.json.mozlz4", (void 0)))
+1627498958045	Marionette	INFO	Listening on port 43627
+1627498958103	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:63719): Gtk-WARNING **: 22:02:38.129: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63719): Gtk-WARNING **: 22:02:38.129: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63719): Gtk-WARNING **: 22:02:38.129: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63719): Gtk-WARNING **: 22:02:38.130: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63719): Gtk-WARNING **: 22:02:38.130: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63719): Gtk-WARNING **: 22:02:38.130: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://forum.start.bg/templates/js/jquery-latest.pack.js, line 19: unreachable code after return statement
+1627498971876	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627498973952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627499006440	Marionette	INFO	Stopped listening on port 43627
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627499011966	geckodriver	INFO	Listening on 127.0.0.1:47743
+1627499011971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1s5mru"
+
+(firefox:63882): Gtk-WARNING **: 22:03:32.008: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(firefox:63882): Gtk-WARNING **: 22:03:32.008: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(firefox:63882): Gtk-WARNING **: 22:03:32.008: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(firefox:63882): Gtk-WARNING **: 22:03:32.008: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(firefox:63882): Gtk-WARNING **: 22:03:32.008: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(firefox:63882): Gtk-WARNING **: 22:03:32.008: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627499012449	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:63978): Gtk-WARNING **: 22:03:33.143: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63978): Gtk-WARNING **: 22:03:33.143: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63978): Gtk-WARNING **: 22:03:33.143: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63978): Gtk-WARNING **: 22:03:33.143: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63978): Gtk-WARNING **: 22:03:33.143: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63978): Gtk-WARNING **: 22:03:33.143: Theme parsing error: colors.css:77:65: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63989): Gtk-WARNING **: 22:03:33.235: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63989): Gtk-WARNING **: 22:03:33.235: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63989): Gtk-WARNING **: 22:03:33.235: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63989): Gtk-WARNING **: 22:03:33.235: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63989): Gtk-WARNING **: 22:03:33.235: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:63989): Gtk-WARNING **: 22:03:33.236: Theme parsing error: colors.css:77:65: Invalid number for color value
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1s5mru/search.json.mozlz4", (void 0)))
+1627499014142	Marionette	INFO	Listening on port 37991
+
+(/usr/lib/firefox/firefox:64091): Gtk-WARNING **: 22:03:34.166: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64091): Gtk-WARNING **: 22:03:34.166: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64091): Gtk-WARNING **: 22:03:34.166: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64091): Gtk-WARNING **: 22:03:34.166: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64091): Gtk-WARNING **: 22:03:34.166: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64091): Gtk-WARNING **: 22:03:34.166: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627499014201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627499030696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+(/usr/lib/firefox/firefox:64275): Gtk-WARNING **: 22:04:35.070: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64275): Gtk-WARNING **: 22:04:35.070: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64275): Gtk-WARNING **: 22:04:35.070: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64275): Gtk-WARNING **: 22:04:35.071: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64275): Gtk-WARNING **: 22:04:35.071: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64275): Gtk-WARNING **: 22:04:35.071: Theme parsing error: colors.css:77:65: Invalid number for color value
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+
+(/usr/lib/firefox/firefox:64333): Gtk-WARNING **: 22:04:49.313: Theme parsing error: colors.css:71:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64333): Gtk-WARNING **: 22:04:49.314: Theme parsing error: colors.css:72:44: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64333): Gtk-WARNING **: 22:04:49.314: Theme parsing error: colors.css:74:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64333): Gtk-WARNING **: 22:04:49.314: Theme parsing error: colors.css:75:53: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64333): Gtk-WARNING **: 22:04:49.314: Theme parsing error: colors.css:76:56: Invalid number for color value
+
+(/usr/lib/firefox/firefox:64333): Gtk-WARNING **: 22:04:49.314: Theme parsing error: colors.css:77:65: Invalid number for color value
+1627499089885	Marionette	INFO	Stopped listening on port 37991
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1627499091484	Marionette	INFO	Stopped listening on port 36941
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
