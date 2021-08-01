@@ -10,7 +10,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 
-browser = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
+browser = webdriver.Chrome("")
 count = 0
 description=""
 
