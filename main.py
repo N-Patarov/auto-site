@@ -77,15 +77,12 @@ def get_info():
     description = WebDriverWait(browser, 10).until(
         EC.presence_of_element_located((By.TAG_NAME, "h3"))
     ).text
-    #site = WebDriverWait(browser, 10).until(
-     #   EC.presence_of_element_located((By.TAG_NAME, "cite"))
-    #)
+    site = WebDriverWait(browser, 10).until(
+        EC.presence_of_element_located((By.TAG_NAME, "cite"))
+    )
    
     time.sleep(3)
     global count
-    javaScript = f"document.getElementsByTagName('cite')[{count}].click();"
-    browser.execute_script(javaScript)
-    print(javaScript)
     url=browser.current_url
     #removes the https:// and the / of the url
     #to get just the domain of the website
@@ -113,6 +110,7 @@ def get_info():
     browser.execute_script("window.scrollBy(0,400)","")
     time.sleep(5)
     del description
+    del site
     print(count)
 
 def check():
