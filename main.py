@@ -66,19 +66,6 @@ def search():
     # Read the repsonse as a utf-8 string
     html = raw_response.decode("utf-8")
 
-    # The code to get the html contents here.
-
-    try:
-            link=url.split("https://")
-            link1=link[1].split("/")
-            link2=link1[0]
-            link3=link2.split("www.")
-            real_link=link3[1]
-
-    except IndexError:
-            link=url.split("https://")
-            link1=link[1].split("/")
-            real_link=link1[0]
 
     soup = BeautifulSoup(html, 'html.parser')
     global links
