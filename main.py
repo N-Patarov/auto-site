@@ -1,3 +1,4 @@
+from os import getloadavg
 import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -8,27 +9,30 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.webdriver.common.action_chains import ActionChains
 import time
+import urllib.request
+from bs4 import BeautifulSoup
+import re
 
 
-browser = webdriver.Chrome("")
+browser = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
 count = 0
-description=""
 
 
 
 
 
 def main ():
+    global count
     setup()
     search()
-    for i in range(3):
-        get_info()
+    for i in range(10):
         check()
         if is_there == False:
             add()
+            count+=1
         else:
             print("website is already added")
-            content.clear()
+            count+=1
 
 def setup():
     admin_email=""
@@ -39,18 +43,6 @@ def setup():
     browser.maximize_window()
     browser.switch_to.window(browser.window_handles[0])
     browser.get("https://izberi.site/websites/new")
-    try:
-
-        WebDriverWait(browser, 3).until(EC.alert_is_present(),
-        'Timed out waiting for PA creation ' +
-        'confirmation popup to appear.')
-        #if it doe
-        alert = browser.switch_to.alert()
-        alert.cancel()
-        print ("alert accepted")
-    except TimeoutException:
-            print ("no alert")
-            pass
     browser.execute_script("window.open('https://google.com')")
     browser.find_element_by_name("admin[email]").send_keys(admin_email)
     browser.find_element_by_name("admin[password]").send_keys(admin_password + Keys.ENTER)
@@ -60,65 +52,68 @@ def setup():
     
 
 
+
+
 def search():
-    browser.switch_to.window(browser.window_handles[-1])
-    browser.get("https://google.com")
-    search=input("type what websites you need to add: ")
-    searchbar=browser.find_element_by_name("q")
-    searchbar.send_keys(search,Keys.ENTER)
+    query = input("what do you want to search: ")
+    url = 'https://google.com/search?q='+query+'&near=sofia'
+    request = urllib.request.Request(url)
 
-    
+    # Set a normal User Agent header, otherwise Google will block the request.
+    request.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36')
+    raw_response = urllib.request.urlopen(request).read()
 
-def get_info():
-    global description
-    global site
-    browser.switch_to.window(browser.window_handles[2])
-    time.sleep(1)
-    description = WebDriverWait(browser, 10).until(
-        EC.presence_of_element_located((By.TAG_NAME, "h3"))
-    ).text
-    #site = WebDriverWait(browser, 10).until(
-     #   EC.presence_of_element_located((By.TAG_NAME, "cite"))
-    #)
-   
-    time.sleep(3)
-    global count
-    javaScript = f"document.getElementsByTagName('cite')[{count}].click();"
-    browser.execute_script(javaScript)
-    print(javaScript)
-    url=browser.current_url
-    #removes the https:// and the / of the url
-    #to get just the domain of the website
+    # Read the repsonse as a utf-8 string
+    html = raw_response.decode("utf-8")
+
+    # The code to get the html contents here.
+
     try:
-        link=url.split("https://")
-        link1=link[1].split("/")
-        link2=link1[0]
-        link3=link2.split("www.")
-        real_link=link3[1]
+            link=url.split("https://")
+            link1=link[1].split("/")
+            link2=link1[0]
+            link3=link2.split("www.")
+            real_link=link3[1]
 
     except IndexError:
-        link=url.split("https://")
-        link1=link[1].split("/")
-        real_link=link1[0]
+            link=url.split("https://")
+            link1=link[1].split("/")
+            real_link=link1[0]
 
-    time.sleep(3)
-    screenshot=browser.save_screenshot("photos/"+"(" + real_link + ")" + ".png")
-    global content
-    content=[]
-    content.append(real_link)
-    content.append(description)
-    print(content)
-    browser.back()
-    count+=1
-    browser.execute_script("window.scrollBy(0,400)","")
-    time.sleep(5)
-    del description
-    print(count)
+    soup = BeautifulSoup(html, 'html.parser')
+    global links
+    global description
+    links = []
+    description = []
+    # Find all the search result divs
+    divs = soup.select("#search div.g")
+    for div in divs:
+        # Search for a h3 tag
+        h3 = div.select("h3")
+        url = div.select("cite")
+
+        # Check if we have found a result
+        if (len(h3) >= 1):
+
+            # Print the title
+            url=url[0].get_text()
+            try: 
+                pattern = re.compile(r'https?://www\.(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi)).*')
+                real_link = pattern.match(url).group(1)             
+                links.append(real_link)
+            except AttributeError:
+                pattern = re.compile(r'https?://(.+?\.(?:net|org|com|gov|site|bg|ro|me|no|co|uk|it|in|gr|edu|fi)).*')
+                real_link = pattern.match(url).group(1)             
+                links.append(real_link)
+            description.append(h3[0].get_text())
+    print(links)
+    print(description)
+
 
 def check():
+    global count
     browser.switch_to.window(browser.window_handles[1])
-    browser.find_element_by_id("query").send_keys(content[0]+Keys.ENTER)
-    time.sleep(2)
+    browser.find_element_by_id("query").send_keys(links[count]+Keys.ENTER)
     global is_there
     is_there = False
     try:
@@ -126,7 +121,7 @@ def check():
         EC.presence_of_element_located((By.TAG_NAME, "h5"))
         ).text
         site_name=site_name_normal.lower()
-        if site_name == content[0]:
+        if site_name == links[count]:
             is_there = True
         else:
             is_there = False
@@ -140,14 +135,18 @@ def add():
     print("adding website...")
     time.sleep(1)
     browser.switch_to.window(browser.window_handles[0])
-    browser.find_element_by_id("websites_title").send_keys(content[0])
-    browser.find_element_by_id("websites_description").send_keys(content[1])
+    browser.find_element_by_id("websites_title").send_keys(links[count])
+    browser.find_element_by_id("websites_description").send_keys(description[count])
     browser.find_element_by_id("websites_likes").send_keys("0")
-    browser.find_element_by_id("websites_urls").send_keys(content[0])
+    browser.find_element_by_id("websites_urls").send_keys(links[count])
     browser.find_element_by_id("websites_priority").send_keys("1")
     browser.find_element_by_xpath("//button[@type='submit']").click()
-    content.clear()
-
+    browser.back()
+    browser.find_element_by_id("websites_title").clear()
+    browser.find_element_by_id("websites_description").clear()
+    browser.find_element_by_id("websites_likes").clear()
+    browser.find_element_by_id("websites_urls").clear()
+    browser.find_element_by_id("websites_priority").clear()
 
 if __name__ == '__main__':
     main()
