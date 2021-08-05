@@ -3,8 +3,6 @@ WIP automaticly adding websites to izberi.site
 
 How to run:
 
-You must have geckodriver version > 27.0,
-
 You must install Selenium library,
 
 You must have admin rights to izberi.site,
