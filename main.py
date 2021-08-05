@@ -25,7 +25,7 @@ def main ():
     global count
     setup()
     search()
-    for i in range(10):
+    while count<=len(description):
         check()
         if is_there == False:
             add()
@@ -33,6 +33,7 @@ def main ():
         else:
             print("website is already added")
             count+=1
+    print("Done")
 
 def setup():
     admin_email=""
@@ -56,7 +57,7 @@ def setup():
 
 def search():
     query = input("what do you want to search: ")
-    url = 'https://google.com/search?q='+query+'&near=sofia'
+    url = 'https://google.com/search?q='+query+'&near=sofia&num=30'
     request = urllib.request.Request(url)
 
     # Set a normal User Agent header, otherwise Google will block the request.
@@ -66,7 +67,6 @@ def search():
     # Read the repsonse as a utf-8 string
     html = raw_response.decode("utf-8")
 
-    # The code to get the html contents here.
 
     soup = BeautifulSoup(html, 'html.parser')
     global links
@@ -85,12 +85,13 @@ def search():
 
             # Print the title
             url=url[0].get_text()
+            print(url)
             try: 
-                pattern = re.compile(r'https?://www\.(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi)).*')
+                pattern = re.compile(r'https?://www\.(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro)).*')
                 real_link = pattern.match(url).group(1)             
                 links.append(real_link)
             except AttributeError:
-                pattern = re.compile(r'https?://(.+?\.(?:net|org|com|gov|site|bg|ro|me|no|co|uk|it|in|gr|edu|fi)).*')
+                pattern = re.compile(r'https?://(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro)).*')
                 real_link = pattern.match(url).group(1)             
                 links.append(real_link)
             description.append(h3[0].get_text())
@@ -109,7 +110,7 @@ def check():
         EC.presence_of_element_located((By.TAG_NAME, "h5"))
         ).text
         site_name=site_name_normal.lower()
-        if site_name == links[count]:
+        if site_name == links[count].lower():
             is_there = True
         else:
             is_there = False
@@ -120,22 +121,25 @@ def check():
 
 
 def add():
-    print("adding website...")
-    time.sleep(1)
-    browser.switch_to.window(browser.window_handles[0])
-    browser.find_element_by_id("websites_title").send_keys(links[count])
-    browser.find_element_by_id("websites_description").send_keys(description[count])
-    browser.find_element_by_id("websites_likes").send_keys("0")
-    browser.find_element_by_id("websites_urls").send_keys(links[count])
-    browser.find_element_by_id("websites_priority").send_keys("1")
-    browser.find_element_by_xpath("//button[@type='submit']").click()
-    browser.back()
-    browser.find_element_by_id("websites_title").clear()
-    browser.find_element_by_id("websites_description").clear()
-    browser.find_element_by_id("websites_likes").clear()
-    browser.find_element_by_id("websites_urls").clear()
-    browser.find_element_by_id("websites_priority").clear()
-
+    try:
+        print("adding website...")
+        time.sleep(1)
+        browser.switch_to.window(browser.window_handles[0])
+        browser.find_element_by_id("websites_title").send_keys(links[count])
+        browser.find_element_by_id("websites_description").send_keys(description[count])
+        browser.find_element_by_id("websites_likes").send_keys("0")
+        browser.find_element_by_id("websites_urls").send_keys(links[count])
+        browser.find_element_by_id("websites_priority").send_keys("1")
+        browser.find_element_by_xpath("//button[@type='submit']").click()
+        print("added")
+        browser.back()
+        browser.find_element_by_id("websites_title").clear()
+        browser.find_element_by_id("websites_description").clear()
+        browser.find_element_by_id("websites_likes").clear()
+        browser.find_element_by_id("websites_urls").clear()
+        browser.find_element_by_id("websites_priority").clear()
+    except IndexError:
+        print("Done")
 if __name__ == '__main__':
     main()
  
