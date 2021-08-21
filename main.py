@@ -16,7 +16,28 @@ import re
 
 browser = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
 count = 0
-
+tags = {
+'novini' : '//input[@phx-value-tag-id="1"]',
+'politika' : '//input[@phx-value-tag-id="2"]',
+'sport' : '//input[@phx-value-tag-id="3"]',
+'razvlekatelni' : '//input[@phx-value-tag-id="20"]',
+'hranitelni_magazini' : '//input[@phx-value-tag-id="19"]',
+'online_magazini' : '//input[@phx-value-tag-id="6"]',
+'biznes_i_finansi' : '//input[@phx-value-tag-id="18"]',
+'avto_i_mps' : '//input[@phx-value-tag-id="9"]',
+'obrazovanie' : '//input[@phx-value-tag-id="12"]',
+'software_i_hardware' : '//input[@phx-value-tag-id="14"]',
+'stroitelstvo' : '//input[@phx-value-tag-id="22"]',
+'moda_i_kozmetika' : '//input[@phx-value-tag-id="16"]',
+'multimediq_i_tv' : '//input[@phx-value-tag-id="15"]',
+'durjavni_institucii' : '//input[@phx-value-tag-id="13"]',
+'gotvarstvo_i_kulinariq' : '//input[@phx-value-tag-id="10"]',
+'medicina' : '//input[@phx-value-tag-id="11"]',
+'el_uslugi' : '//input[@phx-value-tag-id="8"]',
+'hazart' : '//input[@phx-value-tag-id="7"]',
+'socialni_mreji' : '//input[@phx-value-tag-id="5"]',
+'restoranti' : '//input[@phx-value-tag-id="4"]',
+}
 
 
 
@@ -25,6 +46,7 @@ def main ():
     global count
     setup()
     search()
+    print(tags)
     while count<=len(description):
         check()
         if is_there == False:
@@ -56,8 +78,10 @@ def setup():
 
 
 def search():
+    global tag
     query = input("what do you want to search: ")
     url = 'https://google.com/search?q='+query+'&near=sofia&num=30'
+    tag = input("what tag do you want to check: ")
     request = urllib.request.Request(url)
 
     # Set a normal User Agent header, otherwise Google will block the request.
@@ -87,11 +111,11 @@ def search():
             url=url[0].get_text()
             print(url)
             try: 
-                pattern = re.compile(r'https?://www\.(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro)).*')
+                pattern = re.compile(r'https?://www\.(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro|es)).*')
                 real_link = pattern.match(url).group(1)             
                 links.append(real_link)
             except AttributeError:
-                pattern = re.compile(r'https?://(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro)).*')
+                pattern = re.compile(r'https?://(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro|es)).*')
                 real_link = pattern.match(url).group(1)             
                 links.append(real_link)
             description.append(h3[0].get_text())
@@ -132,6 +156,13 @@ def add():
         browser.find_element_by_id("websites_priority").send_keys("1")
         browser.find_element_by_xpath("//button[@type='submit']").click()
         print("added")
+        browser.execute_script("window.scrollTo(10,document.body.scrollHeight)")
+        website_to_click = WebDriverWait(browser, 4).until(
+        EC.presence_of_element_located((By.LINK_TEXT, links[count]))
+        )
+        website_to_click.click()
+        browser.find_element_by_xpath(tags[tag]).click()
+        browser.back()
         browser.back()
         browser.find_element_by_id("websites_title").clear()
         browser.find_element_by_id("websites_description").clear()
