@@ -37,6 +37,7 @@ tags = {
 'hazart' : '//input[@phx-value-tag-id="7"]',
 'socialni_mreji' : '//input[@phx-value-tag-id="5"]',
 'restoranti' : '//input[@phx-value-tag-id="4"]',
+'tenis_na_masa' : '//input[@phx-value-tag-id="23"]',
 }
 
 
@@ -58,8 +59,8 @@ def main ():
     print("Done")
 
 def setup():
-    admin_email=""
-    admin_password=""
+    admin_email="email"
+    admin_password="password"
 
     browser.get('https://google.com')
     browser.find_element_by_id("L2AGLb").click()
@@ -72,7 +73,7 @@ def setup():
     browser.execute_script("window.open('https://google.com')")
     browser.switch_to.window(browser.window_handles[1])
     browser.get("https://izberi.site/websites/")
-    
+
 
 
 
@@ -110,13 +111,13 @@ def search():
             # Print the title
             url=url[0].get_text()
             print(url)
-            try: 
-                pattern = re.compile(r'https?://www\.(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro|es)).*')
-                real_link = pattern.match(url).group(1)             
+            try:
+                pattern = re.compile(r'https?://www\.(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro|es|ru)).*')
+                real_link = pattern.match(url).group(1)
                 links.append(real_link)
             except AttributeError:
-                pattern = re.compile(r'https?://(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro|es)).*')
-                real_link = pattern.match(url).group(1)             
+                pattern = re.compile(r'https?://(.+?\.(?:net|org|com|gov|site|bg|ro|me|eu|no|co|uk|it|in|gr|edu|fi|online|tv|biz|buzz|auction|pro|es|ru)).*')
+                real_link = pattern.match(url).group(1)
                 links.append(real_link)
             description.append(h3[0].get_text())
     print(links)
@@ -157,6 +158,7 @@ def add():
         browser.find_element_by_xpath("//button[@type='submit']").click()
         print("added")
         browser.execute_script("window.scrollTo(10,document.body.scrollHeight)")
+        time.sleep(2)
         website_to_click = WebDriverWait(browser, 4).until(
         EC.presence_of_element_located((By.LINK_TEXT, links[count]))
         )
@@ -173,4 +175,3 @@ def add():
         print("Done")
 if __name__ == '__main__':
     main()
- 
